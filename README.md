@@ -1,10 +1,7 @@
 # VBA-challenge
-VBA Homework - The VBA of Wall Street
+VBA Project - The VBA of Wall Street
 
 Background
-You are well on your way to becoming a programmer and Excel master! 
-In this homework assignment you will use VBA scripting to analyze real stock market data.
-Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
+In this project, I used VBA scripting to analyze real stock market data.
 
-This assignment was hard but it was fun!!!
-Thanks!!!
+This project was hard but it was fun!!!
